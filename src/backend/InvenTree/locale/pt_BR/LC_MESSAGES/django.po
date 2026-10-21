@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: inventree\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-10-21 04:02+0000\n"
-"PO-Revision-Date: 2026-10-21 04:06\n"
+"PO-Revision-Date: 2026-10-21 20:51\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -8885,7 +8885,7 @@ msgstr "Faixa de preço interno da peça"
 
 #: pricing/serializers.py:40 pricing/serializers.py:61
 msgid "Currency for this price break"
-msgstr ""
+msgstr "Moeda para esta faixa de preço"
 
 #: pricing/serializers.py:159
 msgid "Minimum Price"
@@ -8922,7 +8922,7 @@ msgstr "Atualizar preços desta peça"
 #: pricing/serializers.py:241
 #, python-brace-format
 msgid "Could not convert from provided currencies to {currency}"
-msgstr ""
+msgstr "Não foi possível converter das moedas informadas para {currency}"
 
 #: pricing/serializers.py:248
 msgid "Minimum price must not be greater than maximum price"
@@ -10781,7 +10781,7 @@ msgstr "Admin"
 
 #: users/ruleset.py:47
 msgid "Pricing"
-msgstr ""
+msgstr "Preços"
 
 #: users/ruleset.py:48
 msgid "Bills of Material"
